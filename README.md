@@ -31,20 +31,6 @@ The analysis focuses on the following key questions:
 - **In-depth Analysis**: Detailed breakdown of sales by month, gender, state, channel, and product category.
 - **Visual Representation**: Clear and informative visualizations to aid in data-driven decision-making.
 
-## Getting Started
-
-To explore this project:
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/your-username/vrinda-store-sales-report.git
-    ```
-2. **Open the Excel File**:
-    - Navigate to the `Excel` directory and open `Vrinda_Store_Sales_Report.xlsx`.
-
-3. **Review the Dashboard**:
-    - Access the `Dashboard` sheet to interact with the visualizations and explore the data insights.
-
 ## Conclusion
 
 This project demonstrates proficiency in data analysis and visualization using Excel. It provides valuable insights into sales performance and customer behavior, supporting strategic decision-making for future growth.
